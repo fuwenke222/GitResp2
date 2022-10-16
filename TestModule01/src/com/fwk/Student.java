@@ -7,6 +7,7 @@ package com.fwk;
  * @version: 1.0
  */
 public class Student {
+	private String name;
     public Student(){
         System.out.println("githup");
     }

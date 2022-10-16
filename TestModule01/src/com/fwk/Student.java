@@ -8,6 +8,10 @@ package com.fwk;
  */
 public class Student {
     public Student(){
+        System.out.println("githup");
+    }
 
+    public static void main(String[] args) {
+        Student student = new Student();
     }
 }
